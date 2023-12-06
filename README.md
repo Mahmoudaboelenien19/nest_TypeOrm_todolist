@@ -6,15 +6,15 @@
 
 <b>todos Features</b>
 
-| Feature       |  Coded?  | Description                          |
-| ------------- | :------: | :----------------------------------- |
-| Add a todos   | &#10004; | Ability of Add a todos on the System |
-| List todoss   | &#10004; | Ability of List todos                |
-| Edit a todos  | &#10004; | Ability of Edit a todo               |
-| Delete a todo | &#10004; | Ability of Delete a todo             |
-| Check a todo  | &#10004; | Ability of Delete a todo             |
+| Feature       |  Coded?  | Description                         |
+| ------------- | :------: | :---------------------------------- |
+| Add a todo    | &#10004; | Ability of Add a todo on the System |
+| List todo     | &#10004; | Ability of List todo                |
+| Edit a todo   | &#10004; | Ability of Edit a todo              |
+| Delete a todo | &#10004; | Ability of Delete a todo            |
+| Check a todo  | &#10004; | Ability of Delete a todo            |
 
-<b>Purchase Features</b>
+<b>Technologies Vergions </b>
 
 | Feature        | Vergion |
 | -------------- | :-----: |
