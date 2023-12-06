@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+  width: 100vw;
+}
+
+input[type="datetime-local"]::-webkit-calendar-picker-indicator {
+  filter: invert(1); /* Inverts the color of the icon */
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #10303c;
+  border-radius: 100vw;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(238, 125, 119, 0.7);
+
+  border-radius: 100vw;
+  border: 1.5px solid #10303c;
+  transition: 0.3s;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(238, 125, 119);
+}
